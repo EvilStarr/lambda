@@ -25,3 +25,14 @@ Verification Commands (Required)
     curl "<api-url>/python?name=Chewbacca"
     curl "<api-url>/node?name=Malgus"
 
+
+
+Final Pass Condition
+
+A student passes the lab when you can:
+
+✔ Successfully call both endpoints
+✔ Receive correct responses from both runtimes
+✔ Locate and interpret CloudWatch logs
+✔ Explain the request flow end-to-end
+✔ Demonstrate that the system works even with missing or altered input
