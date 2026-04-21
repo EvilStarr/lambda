@@ -19,5 +19,20 @@ Task 1 — Create Python Lambda
 AWS Console → Lambda
 Click Create function
 
+Configuration
+1. Choose Author from Scratch
+Function name: chewbacca-python-lambda
+
+Go here for code: https://github.com/BalericaAI/lambda/blob/main/lessonb/lambda/handler.py
+
+2. Runtime
+Select: Python 3.x (latest available)
+
+3. Permissions
+Choose: Create a new role with basic Lambda permissions
+
+Note: This gives permission to write logs to CloudWatch. Without this, you are blind.
+
+
 
 
