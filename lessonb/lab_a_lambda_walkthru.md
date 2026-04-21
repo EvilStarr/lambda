@@ -34,7 +34,7 @@ Note: This gives permission to write logs to CloudWatch. Without this, you are b
 
 ✍️ Task 2 — Add Python Code
 
-Replace default code with: https://github.com/BalericaAI/lambda/blob/main/lessonb/lambda/handler.py
+Replace default code with:https://github.com/BalericaAI/lambda/blob/main/lessonb/lambda/chewbacca-python-lambda.py
 
 💾 Click Deploy
 
