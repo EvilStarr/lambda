@@ -76,7 +76,9 @@ You’ll see something like: https://abc123_yomomma_black.execute-api.us-east-1.
 This is your base URL.  Until you add WAF, Keisha and you momma will trouble you.
 
 ▶️ Task 6 — Test Endpoints
+
 Python: curl "https://<api-id>.execute-api.<region>.amazonaws.com/python?name=Chewbacca"
+
 Node: curl "https://<api-id>.execute-api.<region>.amazonaws.com/node?name=Malgus"
 
 ✅ Expected Results
